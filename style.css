@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(252, 239, 222);
+}
+
+body{
+    width: 50%;
+    margin: 15px auto;
+}
+
+/* header start*/
+.app_header{
+    text-align: center;
+    
+}
+
+.app_header hr{
+    color: rgb(93, 202, 245);
+    border: 1px solid;
+}
+/*header end*/
+
+
+/* main start*/
+.app_main_container{
+    margin-top: 20px;
+}
+
+.app_main_container h3{
+    color: rgb(238, 100, 14);
+    font-weight: bold;
+}
+.app_main_container p{
+    padding-top: 15px;
+    font-size: 18px;
+    
+}
+
+.app_main_container ul li a{
+    display: block;
+    font-size: 18px;
+
+}
+
+.app_main_container ul li{
+    list-style-type: none;
+}
+
+.app_main_container ul{
+ padding-top: 15px;
+}
+/*main end*/
